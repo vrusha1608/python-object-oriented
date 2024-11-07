@@ -1,0 +1,3 @@
+This text file is used to learn file operations in python.
+
+this is new line appending inside file
